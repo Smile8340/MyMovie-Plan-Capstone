@@ -54,7 +54,7 @@ Add or remove different genres to or from the application to build a rich produc
 Edit movie details like name, ticket price, language, description, and show timings to keep it aligned to the current prices
 Enable or disable the movie shows from the application
 
-# User Portal:
+# User Portal:✅
 It deals with the user activities. The end-user should be able to:
 
 Sign-in to the application to maintain a record of activities
